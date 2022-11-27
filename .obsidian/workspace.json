@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-11-27-¡Cuidado que viene!.md",
-                "mode": "preview",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-11-27-¡Cuidado que viene!.md",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-11-27-¡Cuidado que viene!.md",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-11-27-¡Cuidado que viene!.md"
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md"
               }
             }
           }
