@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md"
+                "file": "_posts/2022-10-05-Sarah.md"
               }
             }
           }
@@ -161,13 +161,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff466a40ad18cff5",
+  "active": "a92cd8838e61e494",
   "lastOpenFiles": [
-    "_posts/2020-02-26-flake-it-till-you-make-it.md",
     "_posts/2022-10-17-Cromoterapia.md",
+    "_posts/2022-10-05-Sarah.md",
+    "_posts/2020-02-26-flake-it-till-you-make-it.md",
     "assets/img/apartment-406901_640.jpg",
     "assets/img/bgimage.png",
-    "_posts/2022-10-05-Sarah.md",
     "assets/img/404-southpark.jpg",
     "assets/img/libros.jpg",
     "assets/img/umbrella-g264e0d800_640.jpg",
