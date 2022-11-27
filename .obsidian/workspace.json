@@ -11,9 +11,11 @@
             "id": "39fa678b7b84b68a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/libros.jpg"
+                "file": "_posts/2020-02-28-test-markdown.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/libros.jpg",
+                "file": "_posts/2020-02-28-test-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/libros.jpg",
+                "file": "_posts/2020-02-28-test-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/libros.jpg"
+                "file": "_posts/2020-02-28-test-markdown.md"
               }
             }
           }
@@ -134,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "781297e8d9c2e314",
+  "active": "39fa678b7b84b68a",
   "lastOpenFiles": [
+    "assets/img/libros.jpg",
     "_posts/2020-02-28-test-markdown.md",
     "_posts/2020-02-26-flake-it-till-you-make-it.md",
     "assets/img/path.jpg",
