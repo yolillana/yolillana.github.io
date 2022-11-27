@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "107bc67a149a2ab1",
+            "id": "ff466a40ad18cff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "ff466a40ad18cff5",
+            "id": "75f721413428f500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-10-05-Sarah.md",
+                "file": "_posts/2022-10-25-Efectos secundarios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
+                "file": "_posts/2022-10-25-Efectos secundarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
+                "file": "_posts/2022-10-25-Efectos secundarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md"
+                "file": "_posts/2022-10-25-Efectos secundarios.md"
               }
             }
           }
@@ -148,13 +149,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "107bc67a149a2ab1",
+  "active": "75f721413428f500",
   "lastOpenFiles": [
+    "_posts/2022-10-17-Cromoterapia.md",
     "_posts/2022-10-05-Sarah.md",
     "_posts/2020-02-26-flake-it-till-you-make-it.md",
     "_posts/2020-02-28-test-markdown.md",
     "_posts/2022-09-27-Antes ejercía la medicina.md",
-    "_posts/2022-10-17-Cromoterapia.md",
     "CHANGELOG.md",
     "_posts/2022-09-20-La arboleda.md",
     "assets/img/path.jpg",
