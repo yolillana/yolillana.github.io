@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-02-28-test-markdown.md",
+                "file": "_posts/2020-02-26-flake-it-till-you-make-it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92cd8838e61e494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-10-05-Sarah.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-02-28-test-markdown.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-02-28-test-markdown.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-02-28-test-markdown.md"
+                "file": "_posts/2022-10-05-Sarah.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39fa678b7b84b68a",
+  "active": "a92cd8838e61e494",
   "lastOpenFiles": [
-    "assets/img/libros.jpg",
     "_posts/2020-02-28-test-markdown.md",
+    "_posts/2022-10-05-Sarah.md",
     "_posts/2020-02-26-flake-it-till-you-make-it.md",
+    "assets/img/libros.jpg",
     "assets/img/path.jpg",
     "assets/img/thumb.png",
     "assets/img/image001.jpg",
     "aboutme.md",
     "CHANGELOG.md",
-    "README.md",
-    "screenshot.png"
+    "README.md"
   ]
 }
