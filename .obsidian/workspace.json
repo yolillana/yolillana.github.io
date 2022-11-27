@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-10-05-Sarah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aboutme.md"
+                "file": "_posts/2022-10-05-Sarah.md"
               }
             }
           }
@@ -176,14 +176,14 @@
   "active": "107bc67a149a2ab1",
   "lastOpenFiles": [
     "_posts/2022-09-20-La arboleda.md",
-    "_posts/2022-10-05-Sarah.md",
-    "_posts/2022-10-17-Cromoterapia.md",
-    "_posts/2020-02-26-flake-it-till-you-make-it.md",
-    "assets/img/apartment-406901_640.jpg",
+    "assets/img/path.jpg",
+    "assets/img/install-steps.gif",
+    "assets/img/hello_world.jpeg",
     "assets/img/bgimage.png",
-    "assets/img/404-southpark.jpg",
-    "assets/img/libros.jpg",
-    "assets/img/umbrella-g264e0d800_640.jpg",
-    "_posts/2020-02-28-test-markdown.md"
+    "assets/img/avatar-icon.png",
+    "assets/img/arboleda.jpg",
+    "assets/img/apartment-406901_640.jpg",
+    "assets/img/7456976.png",
+    "aboutme.md"
   ]
 }
