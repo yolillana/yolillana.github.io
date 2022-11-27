@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89bdb50eb44cd1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-11-01-Todos los Santos en el pueblo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
+                "file": "_posts/2022-11-01-Todos los Santos en el pueblo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
+                "file": "_posts/2022-11-01-Todos los Santos en el pueblo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md"
+                "file": "_posts/2022-11-01-Todos los Santos en el pueblo.md"
               }
             }
           }
@@ -161,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99687150b31d016e",
+  "active": "89bdb50eb44cd1d3",
   "lastOpenFiles": [
+    "_posts/2022-11-27-Las gestas de Marcelo.md",
     "_posts/2022-10-25-Efectos secundarios.md",
+    "_posts/2022-10-17-Cromoterapia.md",
     "aboutme.md",
     "CHANGELOG.md",
     "README.md",
     "screenshot.png",
-    "_posts/2022-10-17-Cromoterapia.md",
     "_posts/2022-10-05-Sarah.md",
     "_posts/2020-02-26-flake-it-till-you-make-it.md",
-    "_posts/2020-02-28-test-markdown.md",
-    "_posts/2022-09-27-Antes ejercía la medicina.md"
+    "_posts/2020-02-28-test-markdown.md"
   ]
 }
