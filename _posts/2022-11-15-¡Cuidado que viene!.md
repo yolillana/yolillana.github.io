@@ -35,7 +35,7 @@ A Mario siempre le había encantado el humor de su amigo, y la mayoría de las v
 
   
 
-Este fin de semana, como tantos otros durante su infancia, habían planeado pasarlo en casa de Pepe, el abuelo de Pablo. En una pequeña casa de campo que este tenía en las afueras, con árboles frutales, una huerta y algunos animales.
+Ese fin de semana, como tantos otros durante su infancia, habían planeado pasarlo en casa de Pepe, el abuelo de Pablo. En una pequeña casa de campo que este tenía en las afueras, con árboles frutales, una huerta y algunos animales.
 
   
 
@@ -69,11 +69,11 @@ Estaba feliz de recibir a sus eternos niños, como él los llamaba.
 
 -¡Chavales, qué alegría veros! - dijo abrazándose a ellos 
     
--¡Qué tal abuelo! Uh! Veo que has preparado un banquete de bienvenida - a Pablo se le iban los ojos a la mesa
+-¡Qué tal abuelo! ¡Uuuh! Veo que has preparado un banquete de bienvenida - a Pablo se le iban los ojos a la mesa
     
--Venga a comer! Y contarme, ¿dónde habéis estado éste año? 
+-¡Venga a comer! Y contarme, ¿dónde habéis estado éste año? 
     
--Pero si te hemos mandado fotos de todo! 
+-¡Pero si te hemos mandado fotos de todo! 
     
 -Bueno bueno, ya sabéis que el chisme ese y yo… - dijo refiriéndose al móvil - la mayor parte del tiempo no sé ni por dónde anda
     
