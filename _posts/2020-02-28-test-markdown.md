@@ -2,9 +2,6 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
@@ -76,3 +73,5 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+![[304068674_108933128623640_8509787725215083077_n.jpg]]

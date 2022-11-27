@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2020-02-26-flake-it-till-you-make-it.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2020-02-26-flake-it-till-you-make-it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2020-02-26-flake-it-till-you-make-it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aboutme.md"
+                "file": "_posts/2020-02-26-flake-it-till-you-make-it.md"
               }
             }
           }
@@ -138,6 +138,12 @@
   },
   "active": "39fa678b7b84b68a",
   "lastOpenFiles": [
+    "_posts/2020-02-28-test-markdown.md",
+    "assets/img/path.jpg",
+    "_posts/2020-02-26-flake-it-till-you-make-it.md",
+    "assets/img/thumb.png",
+    "assets/img/image001.jpg",
+    "aboutme.md",
     "CHANGELOG.md",
     "README.md",
     "screenshot.png"
