@@ -2,7 +2,7 @@
 layout: page
 title: Algo sobre mí...
 subtitle: Porqué escribo
-thumbnail-img: /assets/img/yolanda escritora.jpg
+thumbnail-img: /assets/img/yolandaescritora.jpg
 ---
 
 Mi nombre es Yolanda Molins y siempre he sido una gran lectora.
