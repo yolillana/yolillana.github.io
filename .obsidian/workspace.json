@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50976d1b38ba5779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-09-02-La medusa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-15-Sif.md",
+                "file": "_posts/2022-09-02-La medusa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-15-Sif.md",
+                "file": "_posts/2022-09-02-La medusa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-15-Sif.md"
+                "file": "_posts/2022-09-02-La medusa.md"
               }
             }
           }
@@ -197,17 +209,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "813259b034068eab",
+  "active": "50976d1b38ba5779",
   "lastOpenFiles": [
+    "_posts/2022-09-15-Sif.md",
+    "_posts/2022-09-27-Antes ejercía la medicina.md",
     "_posts/2022-11-27-Las gestas de Marcelo.md",
     "_posts/2022-11-01-Todos los Santos en el pueblo.md",
     "_posts/2022-11-15-¡Cuidado que viene!.md",
-    "_posts/2022-09-27-Antes ejercía la medicina.md",
     "_posts/2022-09-20-La arboleda.md",
     "README.md",
     "CHANGELOG.md",
     "_posts/2022-10-25-Efectos secundarios.md",
-    "_posts/2022-10-17-Cromoterapia.md",
-    "aboutme.md"
+    "_posts/2022-10-17-Cromoterapia.md"
   ]
 }
