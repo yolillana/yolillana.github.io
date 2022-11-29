@@ -1,8 +1,6 @@
 ---
 layout: base
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0" nonce="LqpITbv6"></script>
 
 {% include header.html type="post" %}
 
@@ -54,8 +52,6 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="fb-comments" data-href="https://relatos.espaiterra.com/" data-width="500" data-numposts="5"></div>
-      
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}
