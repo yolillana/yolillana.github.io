@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "621ca31eed45d28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aboutme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-02-La medusa.md",
+                "file": "aboutme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-02-La medusa.md",
+                "file": "aboutme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-02-La medusa.md"
+                "file": "aboutme.md"
               }
             }
           }
@@ -209,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50976d1b38ba5779",
+  "active": "621ca31eed45d28f",
   "lastOpenFiles": [
+    "_posts/2022-09-02-La medusa.md",
+    "aboutme.md",
+    "_posts/2022-09-16-La Navidad.md",
     "_posts/2022-09-15-Sif.md",
     "_posts/2022-09-27-Antes ejercía la medicina.md",
     "_posts/2022-11-27-Las gestas de Marcelo.md",
     "_posts/2022-11-01-Todos los Santos en el pueblo.md",
     "_posts/2022-11-15-¡Cuidado que viene!.md",
     "_posts/2022-09-20-La arboleda.md",
-    "README.md",
-    "CHANGELOG.md",
-    "_posts/2022-10-25-Efectos secundarios.md",
-    "_posts/2022-10-17-Cromoterapia.md"
+    "README.md"
   ]
 }
