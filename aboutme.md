@@ -5,11 +5,10 @@ subtitle: Porqué escribo
 thumbnail-img: /assets/img/yolandaescritora.jpg
 ---
 
-Mi nombre es Yolanda Molins y siempre he sido una gran lectora.
+Siempre he sido una gran lectora.
 Seguramente he heredado la pasión que mi madre ha tenido siempre por los libros, y por su interés en que yo siguiera sus pasos.
 
-Desde niña, cada celebración venía con un libro de regalo un libro. En Navidades y cumpleaños nunca faltaba, pero los que más recuerdo eran los de fin de curso. 
-
+Desde niña cada celebración venía con un libro de regalo un libro. En Navidades y cumpleaños nunca faltaba, pero los que más recuerdo eran los de fin de curso. 
 Mi madre y yo nos sentábamos con una revista literaria, y juntas elegíamos cuál me iba a pedir por las notas.
 
 Los tengo todos guardados, y la mayoría se los ha leído también mi hijo, al que también inculqué el amor por la lectura.
@@ -24,4 +23,4 @@ Y nunca, nunca, veo una película basada en un libro, si antes no me he leído e
 
 Para mí el hecho de escribir un cuento ó relato ya es un gran logro, y solo espero que alguna de mis historias te haga sonreír.
 
-Disfruta la lectura.
+Disfruta de la lectura!
