@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff466a40ad18cff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-10-17-Cromoterapia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75f721413428f500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-10-25-Efectos secundarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99687150b31d016e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89bdb50eb44cd1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "819d30a97f853c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "813259b034068eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-09-15-Sif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50976d1b38ba5779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-09-02-La medusa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "621ca31eed45d28f",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
