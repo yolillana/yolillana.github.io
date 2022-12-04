@@ -2,7 +2,7 @@
 layout: post
 title: Efectos secundarios
 subtitle: 
-share-img:
+cover-img: /assets/img/concierto.jpg
 comments: true
 thumbnail-img: /assets/img/concierto.jpg
 ---

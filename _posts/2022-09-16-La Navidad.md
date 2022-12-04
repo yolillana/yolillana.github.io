@@ -2,7 +2,7 @@
 layout: post
 title: Navidad
 subtitle: 
-share-img:
+cover-img: /assets/img/navidad.jpg
 comments: true
 thumbnail-img: /assets/img/navidad.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Cromoterapia
 subtitle: 
-share-img:
+cover-img: /assets/img/apartment-406901_640.jpg
 comments: true
 thumbnail-img: /assets/img/apartment-406901_640.jpg
 ---

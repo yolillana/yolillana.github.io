@@ -2,7 +2,7 @@
 layout: post
 title: ¡Cuidado que viene!
 subtitle: 
-share-img:
+cover-img: /assets/img/lobo.jpg
 comments: true
 thumbnail-img: /assets/img/lobo.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Palomitas de maíz
 subtitle: 
-share-img:
+cover-img: /assets/img/estrella.jpg
 comments: true
 thumbnail-img: /assets/img/estrella.jpg
 ---

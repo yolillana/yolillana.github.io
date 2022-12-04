@@ -2,7 +2,7 @@
 layout: post
 title: La arboleda
 subtitle: 
-share-img:
+cover-img: /assets/img/arboleda.jpg
 comments: true
 thumbnail-img: /assets/img/arboleda.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Antes ejercía la medicina
 subtitle: 
-share-img:
+cover-img: /assets/img/hospital.jpg
 comments: true
 thumbnail-img: /assets/img/hospital.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Las gestas de Marcelo
 subtitle: 
-share-img:
+cover-img: /assets/img/juglar.jpg
 comments: true
 thumbnail-img: /assets/img/juglar.jpg
 ---

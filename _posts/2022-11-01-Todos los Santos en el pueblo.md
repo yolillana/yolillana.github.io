@@ -2,7 +2,7 @@
 layout: post
 title: Por Todos los Santos... al pueblo!
 subtitle: 
-share-img:
+cover-img: /assets/img/cementerio.jpg
 comments: true
 thumbnail-img: /assets/img/cementerio.jpg
 ---
