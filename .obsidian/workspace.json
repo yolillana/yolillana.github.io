@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-08-25-Sueño.md",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-25-Sueño.md",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-08-25-Sueño.md",
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-08-25-Sueño.md"
+                "file": "_posts/2022-11-15-¡Cuidado que viene!.md"
               }
             }
           }
@@ -187,15 +187,15 @@
   },
   "active": "fdf561e03208942c",
   "lastOpenFiles": [
+    "assets/img/Lobo.jpg",
+    "assets/img/lobocover.jpg",
+    "assets/img/lobo.jpg",
+    "_posts/2022-11-15-¡Cuidado que viene!.md",
+    "_posts/2022-08-25-Sueño.md",
     "_posts/2022-08-25-Conspiracion.md",
     "assets/img/Papeletas.jpg",
     "_posts/2022-09-15-Sif.md",
     "_posts/2022-09-02-La medusa.md",
-    "assets/img/sif.jpg",
-    "_posts/2022-11-27-Las gestas de Marcelo.md",
-    "_posts/2022-12-03-Palomitas de maíz.md",
-    "assets/img/juglarcover.jpg",
-    "_posts/2022-11-07-Trastorno depresivo mayor.md",
-    "_posts/2022-11-15-¡Cuidado que viene!.md"
+    "assets/img/sif.jpg"
   ]
 }
