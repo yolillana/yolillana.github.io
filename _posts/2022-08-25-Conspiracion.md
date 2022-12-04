@@ -2,9 +2,9 @@
 layout: post
 title: 
 subtitle: La imprenta
-cover-img: /assets/img/papeletas.jpg
+cover-img: /assets/img/conspiracion.jpg
 comments: true
-thumbnail-img: /assets/img/papeletas.jpg
+thumbnail-img: /assets/img/conspiracion.jpg
 ---
 
 Todo andaba revuelto en la oficina aquella mañana.
