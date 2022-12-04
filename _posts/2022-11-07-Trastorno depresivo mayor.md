@@ -3,6 +3,7 @@ layout: post
 title: Trastorno depresivo mayor
 subtitle: 
 share-img: /assets/img/depresion.jpg
+cover-img: /assets/img/depresion.jpg
 comments: true
 thumbnail-img: /assets/img/depresion.jpg
 ---
