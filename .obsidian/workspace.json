@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-03-Palomitas de maíz.md",
+                "file": "_posts/2022-11-07-Trastorno depresivo mayor.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-03-Palomitas de maíz.md",
+                "file": "_posts/2022-11-07-Trastorno depresivo mayor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-03-Palomitas de maíz.md",
+                "file": "_posts/2022-11-07-Trastorno depresivo mayor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-03-Palomitas de maíz.md"
+                "file": "_posts/2022-11-07-Trastorno depresivo mayor.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "4d23948bff5e1cca",
   "lastOpenFiles": [
+    "_posts/2022-12-03-Palomitas de maíz.md",
     "_posts/2022-11-27-Las gestas de Marcelo.md",
     "_posts/2022-11-15-¡Cuidado que viene!.md",
     "_posts/2022-11-07-Trastorno depresivo mayor.md",
@@ -171,7 +172,6 @@
     "_posts/2022-10-17-Cromoterapia.md",
     "_posts/2022-10-05-Sarah.md",
     "_posts/2022-09-27-Antes ejercía la medicina.md",
-    "_posts/2022-09-20-La arboleda.md",
-    "_posts/2022-09-16-La Navidad.md"
+    "_posts/2022-09-20-La arboleda.md"
   ]
 }
