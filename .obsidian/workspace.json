@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
+                "file": "_posts/2022-08-25-Conspiracion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f559c40de83954c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-08-14-¡Azúcar!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
+                "file": "_posts/2022-08-14-¡Azúcar!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-11-15-¡Cuidado que viene!.md",
+                "file": "_posts/2022-08-14-¡Azúcar!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-11-15-¡Cuidado que viene!.md"
+                "file": "_posts/2022-08-14-¡Azúcar!.md"
               }
             }
           }
@@ -185,8 +197,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdf561e03208942c",
+  "active": "4f559c40de83954c",
   "lastOpenFiles": [
+    "_posts/2022-08-25-Conspiracion.md",
+    "_posts/2022-11-15-¡Cuidado que viene!.md",
     "_posts/2022-11-01-Todos los Santos en el pueblo.md",
     "_posts/2022-10-25-Efectos secundarios.md",
     "assets/img/yoli.jpg",
@@ -194,8 +208,6 @@
     "assets/img/umbrella-g264e0d800_640.jpg",
     "assets/img/Tulipanes.jpg",
     "assets/img/thumb.png",
-    "assets/img/sifcover.jpg",
-    "assets/img/sif.jpg",
-    "assets/img/path.jpg"
+    "assets/img/sifcover.jpg"
   ]
 }
