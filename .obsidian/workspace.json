@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "99fe9e8d72e5a004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-03-Palomitas de maíz.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-12-03-Palomitas de maíz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aboutme.md",
+                "file": "_posts/2022-12-03-Palomitas de maíz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aboutme.md"
+                "file": "_posts/2022-12-03-Palomitas de maíz.md"
               }
             }
           }
@@ -136,14 +149,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "621ca31eed45d28f",
+  "active": "99fe9e8d72e5a004",
   "lastOpenFiles": [
-    "_posts/2022-09-02-La medusa.md",
+    "_posts/2022-11-27-Las gestas de Marcelo.md",
     "aboutme.md",
+    "_posts/2022-09-02-La medusa.md",
     "_posts/2022-09-16-La Navidad.md",
     "_posts/2022-09-15-Sif.md",
     "_posts/2022-09-27-Antes ejercía la medicina.md",
-    "_posts/2022-11-27-Las gestas de Marcelo.md",
     "_posts/2022-11-01-Todos los Santos en el pueblo.md",
     "_posts/2022-11-15-¡Cuidado que viene!.md",
     "_posts/2022-09-20-La arboleda.md",
