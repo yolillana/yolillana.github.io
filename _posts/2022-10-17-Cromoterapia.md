@@ -15,15 +15,12 @@ No sólo no perdía peso sino que con el paso de los años iba ganando más y m�
 Su médico fue tajante en la última visita rutinaria, o bajaba treinta kilos, o su salud empezaba a peligrar seriamente.
 
   
-
 La verdad es que a ella no le importaba su salud, lo que quería era verse linda. Empezar a utilizar toda esa ropa que hacía años que no utilizaba y que iba sufriendo cada cambio de armario, temporada tras temporada, sin siquiera haber intentado ponérsela.
 
   
-
 Así que cuando le hablaron de la Dra. Ormada y de sus novedosas técnicas de control del apetito, pensó que igual había llegado el momento de probar cosas nuevas.
 
   
-
 Y allí estaba ella. En una habitación completamente morada. 
 
 Desde el umbral de la puerta no divisaba nada que fuera de otro color. 
@@ -33,7 +30,6 @@ La Dra. Ormada, perfectamente vestida con un traje de chaqueta entallado y de un
 Después de estrechar su mano y observar Almudena el anillo de amatistas moradas que la Dra. Ormada llevaba puesto, volvió a sentarse detrás de su escritorio, morado, y abrió su portátil, que también era morado
 
   
-
 -Almudena Rodríguez, ¿verdad? - dijo mientras tecleaba su nombre en el ordenador
     
 -Sí doctora
@@ -41,7 +37,6 @@ Después de estrechar su mano y observar Almudena el anillo de amatistas moradas
 -Cuéntame Almudena, ¿qué te trae a mi consulta? - cerró el portátil y cruzó las manos sobre la mesa esperando atenta lo que su paciente le tuviera que contar
     
 
-  
 
 En los pocos segundos que la doctora estuvo tecleando, Almudena recorrió toda la sala con la mirada y no daba crédito a lo que veía. No había nada, absolutamente nada, que no fuera de color morado. 
 
@@ -50,14 +45,13 @@ Varias tonalidades del mismo, eso era cierto, pero todo morado.
 Una enorme lámpara de pie con una pantalla morada junto a un chaise longe morado, alfombra morada, librería morada. Incluso los libros estaban forrados en papel morado. Se preguntó cómo sabría la doctora qué libro era cada uno.
 
   
-
 En la pared debía haber un enorme ventanal, o eso intuía por el tamaño de la cortina, que al ser de un tupido color morado no permitía pasar la luz ni tan siquiera el relieve de lo que hubiera al otro lado.
 
 Se inquietó. Esa sala no era normal, ¿dónde se estaba metiendo?
 
   
 
--Almudena, ¿estás bien? - la voz de la Dra. Rosales la sacó de su ensimismamiento
+-Almudena, ¿estás bien? - la voz de la Dra. Ormada la sacó de su ensimismamiento
     
 -Disculpe doctora, no había visto nunca una habitación así
     
