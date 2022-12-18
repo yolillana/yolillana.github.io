@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Las peripecias del comisario García
-cover-img: /assets/img/comisario.jpg
+cover-img: /assets/img/detective.jpg
 comments: true
-thumbnail-img: /assets/img/comisario.jpg
+thumbnail-img: /assets/img/detective.jpg
 ---
 
 
