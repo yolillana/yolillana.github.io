@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/alcoholismo.jpg
 ---
 
 
-Desde que Alberto dejó de asistir a las reuniones de Alcohólicos anónimos apenas salía de casa.
+Desde que Alberto dejó de asistir a las reuniones de Alcohólicos Anónimos, apenas salía de casa.
 
 Sólo si se había acabado el alcohol.
 
@@ -47,15 +47,15 @@ Con la misma ropa arrugada y sucia que llevaba desde hacía días, se dirigió a
 
 Nada más salir del portal se topó de frente con Andrés, su padrino.
 
-- En algún momento tendrías que salir de casa - fue todo lo le dijo
+-En algún momento tendrías que salir de casa - fue todo lo le dijo
 
-- Ya no puedo más, me rindo. No voy a volver a las reuniones. Te agradezco todo lo que has hecho por mí y lamento haberte hecho perder el tiempo, pero …
+-Ya no puedo más, me rindo. No voy a volver a las reuniones. Te agradezco todo lo que has hecho por mí y lamento haberte hecho perder el tiempo, pero …
 
-- Carmen me llamó - le interrumpió
+-Carmen me llamó - le interrumpió
 
 Los ojos de Alberto se abrieron como platos.
 
-- Estaba preocupada por ti y me pidió que pasara a verte. Después de tanto tiempo sigues sin darte cuenta de que no es sólo por tí por quién tienes que hacerlo
+-Estaba preocupada por ti y me pidió que pasara a verte. Después de tanto tiempo sigues sin darte cuenta de que no es sólo por tí por quién tienes que hacerlo
 
 Alberto bajó la cabeza y empezó a llorar.
 
@@ -67,7 +67,7 @@ Pero no podía seguir bebiendo y perder a su mujer.
 
 Andrés le puso una mano en el hombro y Alberto se lanzó a sus brazos llorando desconsoladamente.
 
-- Esta tarde a las cinco hay reunión. Me voy a quedar contigo todo el día. Vas a comer algo y te vas a dar un buen baño. Luego iremos a la reunión, y cuando salgas, más tranquilo, llamas a Carmen. Está esperando tu llamada.
+-Esta tarde a las cinco hay reunión. Me voy a quedar contigo todo el día. Vas a comer algo y te vas a dar un buen baño. Luego iremos a la reunión, y cuando salgas, más tranquilo, llamas a Carmen. Está esperando tu llamada.
 
 Alberto no contestó, solo siguió abrazado a su padrino como un niño pequeño, y cuando el abrazo se disolvió, se dejó llevar por él, casi de la mano, hasta su casa.
 
