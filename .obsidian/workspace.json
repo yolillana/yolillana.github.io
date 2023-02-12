@@ -8,163 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "621ca31eed45d28f",
+            "id": "f5edf5737b5f8fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-11-27-Las gestas de Marcelo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99fe9e8d72e5a004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-03-Palomitas de maíz.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d23948bff5e1cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-09-02-La medusa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5637a9abe897090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-08-25-Conspiracion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdf561e03208942c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-08-25-Conspiracion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f559c40de83954c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-08-14-¡Azúcar!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a5e718509d7252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-07-El hombre que viajaba solo con su mochila.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abd91dbad9a8045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-10-Resurgir de las llamas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "315d46b07367cc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-17-Las peripecias del comisario García.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4524b957f150a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-17-Las peripecias del comisario García.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c282c72873e22a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-17-Las peripecias del comisario García.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "297d6e4eb653122a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-01-16-Alcoholismo intermitente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9c567423f5e60e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-02-07-GAFAS.md",
+                "file": "_posts/2023-02-07-FANTASIA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-07-GAFAS.md",
+                "file": "_posts/2023-02-07-FANTASIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-07-GAFAS.md",
+                "file": "_posts/2023-02-07-FANTASIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-07-GAFAS.md"
+                "file": "_posts/2023-02-07-FANTASIA.md"
               }
             }
           }
@@ -290,17 +145,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d9c567423f5e60e8",
+  "active": "f5edf5737b5f8fcf",
   "lastOpenFiles": [
+    "_posts/2022-08-25-Conspiracion.md",
+    "_posts/2023-02-07-FANTASIA.md",
+    "_posts/2022-09-20-La arboleda.md",
+    "_posts/2023-02-07-GAFAS.md",
     "_posts/2023-01-16-Alcoholismo intermitente.md",
     "_posts/2022-12-17-Las peripecias del comisario García.md",
     "_posts/2022-08-14-¡Azúcar!.md",
     "_posts/2022-10-25-Efectos secundarios.md",
     "assets/img/detective.png",
-    "_posts/2022-12-10-Resurgir de las llamas.md",
-    "_posts/2022-08-25-Conspiracion.md",
-    "assets/img/Papeletas.jpg",
-    "_posts/2022-08-25-Sueño.md",
-    "_posts/2022-09-20-La arboleda.md"
+    "_posts/2022-12-10-Resurgir de las llamas.md"
   ]
 }
