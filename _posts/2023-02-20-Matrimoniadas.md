@@ -8,11 +8,11 @@ thumbnail-img: /assets/img/roberto.jpeg
 
 Roberto miraba asustado a su mujer. No se podía creer que ver a Conchi de aquella guisa, con lencería sexy y enfundada en esas botas de cuero altas que le llegaban hasta casi las ingles, le estuviera causando más terror que deseo.
 
-- Roberto hijo, no me mires así e intenta actuar con un poco de naturalidad, que pareces más perdido que un pulpo en un garaje!
+-Roberto hijo, no me mires así e intenta actuar con un poco de naturalidad, que pareces más perdido que un pulpo en un garaje!
 
-- Mujer, naturalidad… ¿Tu has visto cómo te miran?
+-Mujer, naturalidad… ¿Tu has visto cómo te miran?
 
-- De eso se trata, ¿no? ¿no querías reavivar nuestra vida sexual? - Pues ya sabes lo que dijo la terapeuta: “tenéis que darle vidilla a vuestra relación”, así que relájate y disfruta hombre. Anda vete y pide un par de gin tonics. El tuyo bien cargadito, que lo estás necesitando.
+-De eso se trata, ¿no? ¿no querías reavivar nuestra vida sexual? - Pues ya sabes lo que dijo la terapeuta: “tenéis que darle vidilla a vuestra relación”, así que relájate y disfruta hombre. Anda vete y pide un par de gin tonics. El tuyo bien cargadito, que lo estás necesitando.
 
 Tras estas palabras Roberto dejó a su mujer sola en aquel local de intercambio de parejas al que les había recomendado ir su amigo Raúl, con el que iba a tener que mantener una conversación muy pero que muy seria. Normal que se lo pasara pipa! Iba solo, sin pareja, con lo que no tenía que ver como todo el local se comía con los ojos a su mujer. Además aquello era una exhibición de tangas, máscaras de carnaval y pezoneras con brillantitos. Hasta había hombres que llevaban algo que, prefería no saber qué era, brillaba como un diamante donde debería estar el tercer ojo.
 
@@ -26,7 +26,7 @@ Cogió los gin tonics y salió, con su medio culo al aire, en dirección a su mu
 
 -Ejem… tu copa querida! - dijo para llamar su atención
 
- -Mirad chicos, os presento a Roberto, mi marido. Mira cariño, son Alejandra y Carlos - Roberto notó que lo miraban de arriba abajo (sobretodo la tal Alejandra) intentando explicarse cómo él podía ser el marido del bellezón de su mujer (cosa que él ya se preguntaba habitualmente)
+-Mirad chicos, os presento a Roberto, mi marido. Mira cariño, son Alejandra y Carlos - Roberto notó que lo miraban de arriba abajo (sobretodo la tal Alejandra) intentando explicarse cómo él podía ser el marido del bellezón de su mujer (cosa que él ya se preguntaba habitualmente)
 
 -Hola - dijo levantando las manos, con un gin tonic en cada una de ellas
 
