@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cc84877bb949f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-20-Perdida en el bosque.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-20-Matrimoniadas.md",
+                "file": "_posts/2023-02-20-Perdida en el bosque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-20-Matrimoniadas.md",
+                "file": "_posts/2023-02-20-Perdida en el bosque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-20-Matrimoniadas.md"
+                "file": "_posts/2023-02-20-Perdida en el bosque.md"
               }
             }
           }
@@ -158,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e96af5436dc44f18",
+  "active": "6cc84877bb949f57",
   "lastOpenFiles": [
+    "_posts/2023-02-20-Matrimoniadas.md",
     "_posts/2023-02-12-FANTASIA.md",
     "assets/img/GOLOSO CABECERA.png",
     "_posts/2022-08-25-Conspiracion.md",
@@ -168,7 +181,6 @@
     "_posts/2023-01-16-Alcoholismo intermitente.md",
     "_posts/2022-12-17-Las peripecias del comisario García.md",
     "_posts/2022-08-14-¡Azúcar!.md",
-    "_posts/2022-10-25-Efectos secundarios.md",
-    "assets/img/detective.png"
+    "_posts/2022-10-25-Efectos secundarios.md"
   ]
 }
