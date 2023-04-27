@@ -6,15 +6,14 @@ comments: true
 thumbnail-img: /assets/img/mujer-estresada.png
 ---
 
-**
 
 **Como cada mañana, Lourdes sale de casa camino de la parada de autobús que la llevará al trabajo.**
 
-¿He cerrado el gas?¿El agua? Dios, no les he puesto agua a los gatos
+¿He cerrado el gas?¿El agua? Dios, no les he puesto agua a los gatos...
 
 Al final no he recogido la ropa del tendedero, como llueva y me toque volver a lavarlo todo… Madre mía mira la hora que es, ¡si es que no hoy no llego! ¿Y este tráfico? ¿Qué pasa hoy?
 
-**Seguía hablando hacia sus adentros en una locura de reproches hacia sí misma**
+**Seguía hablando hacia sus adentros en una locura de reproches hacia sí misma.**
 
 Lourdes te has dejado la bolsa con la comida, y además fuera de la nevera, cuando llegues esta noche estará para tirar, y encima te va a tocar comer de menú por ahí. ¡A tomar por saco la dieta hoy!
 
