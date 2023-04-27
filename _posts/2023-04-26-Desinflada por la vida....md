@@ -6,7 +6,6 @@ comments: true
 thumbnail-img: /assets/img/mujer-estresada.png
 ---
 
-
 **Como cada mañana, Lourdes sale de casa camino de la parada de autobús que la llevará al trabajo.**
 
 ¿He cerrado el gas?¿El agua? Dios, no les he puesto agua a los gatos...
